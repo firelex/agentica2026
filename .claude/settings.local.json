@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build:*)",
+      "Bash(npm install:*)",
+      "Bash(cat:*)",
+      "Bash(echo \"Current NODE_ENV: $NODE_ENV\")",
+      "Bash(printenv)",
+      "Bash(NODE_ENV=production npm run build)",
+      "Bash(ffmpeg:*)",
+      "WebFetch(domain:www.wsd.com)",
+      "Bash(timeout 15 npm run dev)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

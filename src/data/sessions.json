@@ -1,0 +1,1079 @@
+{
+  "scaling-agentic-ai": {
+    "id": "scaling-agentic-ai",
+    "title": "Scaling Agentic AI Across Large Organisations",
+    "day": 1,
+    "track": "A",
+    "time": "09:30-10:30",
+    "type": "session",
+    "description": "Learn how enterprise organizations are successfully deploying and scaling AI agents across multiple departments, teams, and geographies. This session covers the technical, organizational, and cultural challenges of large-scale agent deployment.",
+    "longDescription": "As agentic AI moves from pilot projects to production at scale, enterprises face unique challenges in deployment, governance, and integration. This session brings together industry leaders who have successfully scaled AI agents across thousands of employees and multiple business units.\n\nWe'll explore real-world case studies from Fortune 500 companies, examining both successes and failures. Topics include infrastructure requirements, change management strategies, measuring ROI at scale, and building organizational buy-in from the C-suite to frontline employees.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand the key infrastructure requirements for enterprise-scale agent deployment",
+      "Learn proven change management strategies for AI adoption",
+      "Identify common pitfalls and how to avoid them",
+      "Develop a roadmap for scaling from pilot to production"
+    ],
+    "prerequisites": ["Basic understanding of AI agents", "Familiarity with enterprise IT infrastructure"],
+    "targetAudience": ["CTOs", "VPs of Engineering", "Enterprise Architects", "Innovation Leaders"],
+    "materials": []
+  },
+  "measuring-impact": {
+    "id": "measuring-impact",
+    "title": "Measuring Real Impact and Value of AI Agents",
+    "day": 1,
+    "track": "A",
+    "time": "10:45-11:45",
+    "type": "session",
+    "description": "Beyond the hype: Learn practical frameworks and metrics for measuring the true business impact and ROI of AI agents in your organization.",
+    "longDescription": "Every organization deploying AI agents faces the same challenge: how do you measure success? Traditional metrics often fail to capture the full value and impact of autonomous AI systems.\n\nThis session introduces comprehensive frameworks for measuring AI agent performance, from technical metrics like accuracy and latency to business outcomes like cost savings, productivity gains, and customer satisfaction. We'll cover both quantitative and qualitative measurement approaches, including how to account for indirect benefits and long-term strategic value.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Master multiple frameworks for measuring AI agent ROI",
+      "Learn to balance technical and business metrics",
+      "Understand how to measure indirect and long-term value",
+      "Develop a customized measurement strategy for your organization"
+    ],
+    "prerequisites": ["Basic understanding of business metrics", "Some experience with AI projects"],
+    "targetAudience": ["Business Analysts", "Product Managers", "Finance Leaders", "AI Project Managers"],
+    "materials": []
+  },
+  "board-level-leadership": {
+    "id": "board-level-leadership",
+    "title": "Panel: Board-Level Leadership & Accountability",
+    "day": 1,
+    "track": "A",
+    "time": "11:45-12:30",
+    "type": "panel",
+    "description": "C-suite executives discuss governance, accountability, and strategic decision-making for autonomous AI systems at the highest organizational levels.",
+    "longDescription": "As AI agents gain more autonomy and make increasingly important decisions, boards of directors and C-suite executives must grapple with new questions of governance, accountability, and risk management.\n\nThis executive panel brings together CEOs, board members, and chief risk officers who have navigated these challenges. The discussion covers fiduciary duties in the age of AI, how boards should oversee AI initiatives, and creating accountability frameworks for autonomous systems.",
+    "speakers": [
+      {
+        "name": "Panelist TBA",
+        "title": "Role to be confirmed",
+        "bio": "Panelist details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      },
+      {
+        "name": "Panelist TBA",
+        "title": "Role to be confirmed",
+        "bio": "Panelist details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand board-level governance frameworks for AI",
+      "Learn how to structure accountability for autonomous systems",
+      "Explore risk management strategies at the executive level",
+      "Gain insights into building board-level AI literacy"
+    ],
+    "prerequisites": ["Executive leadership experience helpful but not required"],
+    "targetAudience": ["Board Members", "C-Suite Executives", "Chief Risk Officers", "Corporate Counsel"],
+    "materials": []
+  },
+  "legacy-systems-integration": {
+    "id": "legacy-systems-integration",
+    "title": "Bringing Agent Workflows into Legacy Systems",
+    "day": 1,
+    "track": "A",
+    "time": "14:00-15:00",
+    "type": "session",
+    "description": "Practical strategies for integrating modern AI agents with existing enterprise systems, legacy databases, and established workflows without disrupting operations.",
+    "longDescription": "Most organizations cannot simply replace their existing technology stack with new AI-native systems. This session addresses the practical challenges of bringing agentic AI into environments built on legacy infrastructure.\n\nLearn integration patterns, API strategies, data migration approaches, and how to maintain security and compliance while modernizing incrementally. We'll cover real examples of successful integrations and common failure modes to avoid.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand integration patterns for legacy systems",
+      "Learn API design strategies for agent connectivity",
+      "Master data migration best practices",
+      "Maintain security and compliance during integration"
+    ],
+    "prerequisites": ["Understanding of enterprise architecture", "Basic knowledge of APIs and system integration"],
+    "targetAudience": ["Enterprise Architects", "Integration Specialists", "IT Directors", "Technical Leads"],
+    "materials": []
+  },
+  "building-trust": {
+    "id": "building-trust",
+    "title": "Roundtable: Building Trust in AI Within Organisations",
+    "day": 1,
+    "track": "A",
+    "time": "15:15-16:15",
+    "type": "roundtable",
+    "description": "Interactive roundtable discussion on strategies for building employee trust and acceptance of AI agents in the workplace.",
+    "longDescription": "Trust is perhaps the biggest barrier to AI adoption in organizations. Employees worry about job security, bias, loss of control, and whether AI systems will truly help or hinder their work.\n\nThis interactive roundtable brings together change management experts and organizational leaders to share strategies that have worked. Topics include transparent communication, involving employees in AI design, demonstrating value through pilot programs, and addressing fears head-on.",
+    "speakers": [
+      {
+        "name": "Facilitator TBA",
+        "title": "Role to be confirmed",
+        "bio": "Facilitator details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Learn strategies for transparent AI communication",
+      "Understand employee concerns and how to address them",
+      "Develop change management plans for AI adoption",
+      "Build inclusive AI implementation processes"
+    ],
+    "prerequisites": ["None - suitable for all levels"],
+    "targetAudience": ["Change Management Leaders", "HR Directors", "Organizational Development", "Business Leaders"],
+    "materials": []
+  },
+  "quick-wins": {
+    "id": "quick-wins",
+    "title": "Quick Wins: 90-Day Agent Pilots",
+    "day": 1,
+    "track": "A",
+    "time": "16:15-17:00",
+    "type": "session",
+    "description": "Learn how to design and execute rapid AI agent pilots that deliver measurable value in 90 days or less, building momentum for larger initiatives.",
+    "longDescription": "Not every AI initiative needs to be a multi-year transformation. This session focuses on identifying high-impact, low-complexity use cases that can be piloted and delivered quickly.\n\nDiscover frameworks for selecting the right first projects, setting clear success metrics, assembling rapid deployment teams, and using quick wins to build organizational momentum and secure funding for larger initiatives.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Identify high-impact quick win opportunities",
+      "Design effective 90-day pilot programs",
+      "Set realistic success metrics",
+      "Use pilots to build momentum for larger initiatives"
+    ],
+    "prerequisites": ["Basic project management knowledge"],
+    "targetAudience": ["Product Managers", "Innovation Leaders", "Business Analysts", "Project Managers"],
+    "materials": []
+  },
+  "memory-architectures": {
+    "id": "memory-architectures",
+    "title": "Memory Architectures: How Agents Learn & Remember",
+    "day": 1,
+    "track": "B",
+    "time": "09:30-10:30",
+    "type": "session",
+    "description": "Deep dive into the technical architectures that enable AI agents to maintain context, learn from interactions, and build long-term memory.",
+    "longDescription": "One of the most critical capabilities for truly autonomous AI agents is the ability to remember past interactions, learn from experience, and maintain context over long periods. This technical session explores the state-of-the-art in agent memory systems.\n\nWe'll cover vector databases, episodic memory systems, semantic memory structures, and hybrid approaches. The session includes practical implementation patterns, performance considerations, and how to balance memory persistence with privacy requirements.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand different types of agent memory systems",
+      "Learn practical implementation patterns",
+      "Master performance optimization techniques",
+      "Balance memory capabilities with privacy requirements"
+    ],
+    "prerequisites": ["Strong programming background", "Understanding of vector databases", "Familiarity with LLMs"],
+    "targetAudience": ["AI Engineers", "ML Researchers", "Technical Architects", "Backend Developers"],
+    "materials": []
+  },
+  "data-infrastructure": {
+    "id": "data-infrastructure",
+    "title": "Building Data Infrastructure for Agentic AI",
+    "day": 1,
+    "track": "B",
+    "time": "10:45-11:45",
+    "type": "session",
+    "description": "Essential data infrastructure patterns and architectures needed to support autonomous AI agents at scale, including storage, pipelines, and real-time processing.",
+    "longDescription": "AI agents have unique data infrastructure requirements that differ from traditional applications. They need access to real-time data, historical context, structured and unstructured information, and the ability to write back insights and decisions.\n\nThis session covers the essential components of agent-ready data infrastructure, including streaming data pipelines, event-driven architectures, vector stores, graph databases, and data governance frameworks that enable autonomous operation while maintaining security and compliance.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Design data architectures for autonomous agents",
+      "Implement streaming and real-time data pipelines",
+      "Choose appropriate storage solutions for agent memory",
+      "Build governance frameworks for agent data access"
+    ],
+    "prerequisites": ["Experience with data engineering", "Knowledge of databases and data pipelines"],
+    "targetAudience": ["Data Engineers", "Data Architects", "Platform Engineers", "Backend Engineers"],
+    "materials": []
+  },
+  "decision-tracking": {
+    "id": "decision-tracking",
+    "title": "Demo: Decision Tracking & Explainability Tools",
+    "day": 1,
+    "track": "B",
+    "time": "11:45-12:30",
+    "type": "demo",
+    "description": "Live demonstration of tools and techniques for tracking agent decisions, creating audit trails, and making AI reasoning transparent and explainable.",
+    "longDescription": "When AI agents make autonomous decisions, organizations need clear visibility into how and why those decisions were made. This hands-on demo showcases state-of-the-art tools for decision tracking and explainability.\n\nSee live demonstrations of decision logging systems, reasoning visualizations, audit trail generation, and explainability interfaces. Learn how to implement these tools in your own agent systems to meet compliance requirements and build stakeholder trust.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand decision tracking architectures",
+      "Learn to implement audit trails for agent actions",
+      "Master explainability visualization techniques",
+      "Meet compliance and governance requirements"
+    ],
+    "prerequisites": ["Basic understanding of AI systems"],
+    "targetAudience": ["AI Engineers", "Compliance Officers", "Product Managers", "Technical Leaders"],
+    "materials": []
+  },
+  "build-agent-part-1": {
+    "id": "build-agent-part-1",
+    "title": "Hands-On: Build Your First Agent (Part 1)",
+    "day": 1,
+    "track": "B",
+    "time": "14:00-15:30",
+    "type": "workshop",
+    "description": "Practical hands-on workshop where you'll build a working AI agent from scratch. Part 1 covers core concepts, setup, and basic agent capabilities.",
+    "longDescription": "Roll up your sleeves and build your first AI agent in this comprehensive two-part workshop. In Part 1, you'll learn fundamental concepts and create a basic but functional agent system.\n\nStarting from first principles, we'll guide you through agent architecture, connecting to LLM APIs, implementing decision loops, tool integration, and basic memory. By the end of Part 1, you'll have a working agent capable of autonomous task execution. Bring your laptop and be ready to code!",
+    "speakers": [
+      {
+        "name": "Instructor TBA",
+        "title": "Role to be confirmed",
+        "bio": "Instructor details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand fundamental agent architecture patterns",
+      "Implement basic decision loops and reasoning",
+      "Connect agents to external tools and APIs",
+      "Build a functional autonomous agent from scratch"
+    ],
+    "prerequisites": ["Programming experience (Python or JavaScript preferred)", "Laptop with development environment", "Basic understanding of APIs"],
+    "targetAudience": ["Software Engineers", "ML Engineers", "Technical Product Managers", "Developers"],
+    "materials": []
+  },
+  "multimodal-agents": {
+    "id": "multimodal-agents",
+    "title": "Multimodal Agents Demo (Text, Voice, Video)",
+    "day": 1,
+    "track": "B",
+    "time": "15:45-17:00",
+    "type": "demo",
+    "description": "Demonstration of cutting-edge multimodal AI agents that can process and generate text, speech, images, and video, opening new interaction possibilities.",
+    "longDescription": "The future of AI agents goes beyond text. This demo showcases agents that can seamlessly work across multiple modalities - understanding spoken commands, analyzing images and video, generating visual content, and communicating through voice.\n\nSee practical applications including video analysis agents, voice-interactive assistants, visual content generation, and multimodal reasoning. Learn about the technical challenges of multimodal AI and emerging patterns for building agents that leverage multiple input and output channels.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand multimodal AI capabilities and limitations",
+      "See practical applications of multimodal agents",
+      "Learn integration patterns for vision and speech",
+      "Explore emerging multimodal agent architectures"
+    ],
+    "prerequisites": ["Basic understanding of AI agents"],
+    "targetAudience": ["AI Engineers", "Product Designers", "Innovation Leaders", "Technical Architects"],
+    "materials": []
+  },
+  "uk-eu-rules": {
+    "id": "uk-eu-rules",
+    "title": "UK and EU Rules for Autonomous Systems",
+    "day": 1,
+    "track": "C",
+    "time": "09:30-10:30",
+    "type": "session",
+    "description": "Comprehensive overview of current and upcoming UK and EU regulations governing autonomous AI systems, including the EU AI Act and UK regulatory framework.",
+    "longDescription": "The regulatory landscape for AI is rapidly evolving, particularly in the UK and EU. This session provides a comprehensive overview of current regulations, pending legislation, and what organizations need to know to remain compliant.\n\nWe'll cover the EU AI Act in detail, including risk classifications, compliance requirements, and implementation timelines. For the UK, we'll explore the government's pro-innovation approach and how it differs from the EU framework. The session includes practical guidance on building compliance programs and preparing for upcoming requirements.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand key provisions of the EU AI Act",
+      "Learn about UK regulatory framework and differences from EU",
+      "Identify compliance requirements for your AI systems",
+      "Develop practical compliance strategies"
+    ],
+    "prerequisites": ["None - suitable for all levels"],
+    "targetAudience": ["Legal Counsel", "Compliance Officers", "Business Leaders", "Product Managers"],
+    "materials": []
+  },
+  "decision-boundaries": {
+    "id": "decision-boundaries",
+    "title": "When Should AI Ask for Approval? Decision Boundaries",
+    "day": 1,
+    "track": "C",
+    "time": "10:45-11:45",
+    "type": "session",
+    "description": "Framework for determining when AI agents should act autonomously versus escalating decisions to humans, balancing efficiency with risk management.",
+    "longDescription": "One of the most critical design decisions in agentic AI is determining the boundary between autonomous action and human oversight. Get it wrong and you either bottleneck efficiency or create unacceptable risk.\n\nThis session presents practical frameworks for decision boundary setting, covering risk assessment, impact analysis, reversibility considerations, and stakeholder tolerance. Learn how to implement dynamic approval thresholds that adapt to context and build confidence over time.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Develop frameworks for decision boundary setting",
+      "Assess risk and impact of autonomous decisions",
+      "Implement dynamic approval workflows",
+      "Balance efficiency with appropriate oversight"
+    ],
+    "prerequisites": ["Understanding of AI agent capabilities"],
+    "targetAudience": ["Product Managers", "Risk Managers", "UX Designers", "Technical Leads"],
+    "materials": []
+  },
+  "ethical-dilemmas": {
+    "id": "ethical-dilemmas",
+    "title": "Interactive Workshop: Ethical Dilemmas in Practice",
+    "day": 1,
+    "track": "C",
+    "time": "11:45-12:30",
+    "type": "workshop",
+    "description": "Participate in interactive scenarios exploring real ethical dilemmas that arise when deploying autonomous AI agents in business contexts.",
+    "longDescription": "Theory meets practice in this interactive workshop where participants work through actual ethical dilemmas encountered in AI agent deployments. Using case studies and group exercises, explore challenging scenarios with no easy answers.\n\nTopics include bias in automated decisions, privacy versus functionality trade-offs, accountability when things go wrong, and balancing stakeholder interests. Work in small groups to develop ethical frameworks that can guide real-world decision-making.",
+    "speakers": [
+      {
+        "name": "Facilitator TBA",
+        "title": "Role to be confirmed",
+        "bio": "Facilitator details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Analyze complex ethical scenarios in AI deployment",
+      "Develop practical ethical decision frameworks",
+      "Balance competing stakeholder interests",
+      "Build organizational ethical guidelines for AI"
+    ],
+    "prerequisites": ["None - suitable for all levels"],
+    "targetAudience": ["Ethics Officers", "Product Managers", "Business Leaders", "Compliance Teams"],
+    "materials": []
+  },
+  "vc-panel": {
+    "id": "vc-panel",
+    "title": "VC Panel: Funding the Agentic Ecosystem",
+    "day": 1,
+    "track": "C",
+    "time": "14:00-15:00",
+    "type": "panel",
+    "description": "Venture capitalists discuss investment trends, what they look for in agentic AI startups, and predictions for the market over the next 3-5 years.",
+    "longDescription": "The agentic AI space is attracting unprecedented investment attention. This panel brings together leading VCs who are actively funding companies in this space.\n\nHear directly from investors about what excites them, what concerns them, market size projections, competitive dynamics, and advice for founders building in this space. The panel will cover funding stages from seed to growth, exit strategies, and predictions for market consolidation.",
+    "speakers": [
+      {
+        "name": "Panelist TBA",
+        "title": "Venture Capital Firm",
+        "bio": "Panelist details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      },
+      {
+        "name": "Panelist TBA",
+        "title": "Venture Capital Firm",
+        "bio": "Panelist details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand VC investment thesis for agentic AI",
+      "Learn what investors look for in startups",
+      "Gain insights into market trends and predictions",
+      "Understand funding landscape across stages"
+    ],
+    "prerequisites": ["Interest in startups and funding"],
+    "targetAudience": ["Founders", "Entrepreneurs", "Business Development", "Investors"],
+    "materials": []
+  },
+  "startup-pitch": {
+    "id": "startup-pitch",
+    "title": "Startup Pitch Competition & Feedback",
+    "day": 1,
+    "track": "C",
+    "time": "15:15-17:00",
+    "type": "session",
+    "description": "Watch selected startups pitch their agentic AI solutions and receive feedback from a panel of investors, industry experts, and potential customers.",
+    "longDescription": "See the future of agentic AI through the eyes of innovative startups. This competition features carefully selected early-stage companies presenting their solutions to a distinguished panel and live audience.\n\nStartups will pitch their technology, business model, and go-to-market strategy in 5-minute presentations, followed by Q&A and feedback from judges. Whether you're a founder learning from others, an investor seeking opportunities, or a potential customer exploring solutions, this session offers valuable insights into emerging innovations.",
+    "speakers": [
+      {
+        "name": "Judge TBA",
+        "title": "Role to be confirmed",
+        "bio": "Judge details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "See emerging innovations in agentic AI",
+      "Learn effective pitching techniques",
+      "Understand what makes a compelling startup story",
+      "Discover potential solutions and partnerships"
+    ],
+    "prerequisites": ["None - suitable for all levels"],
+    "targetAudience": ["Founders", "Investors", "Business Development", "Innovation Leaders"],
+    "materials": []
+  },
+  "financial-services": {
+    "id": "financial-services",
+    "title": "Agentic AI in Financial Services",
+    "day": 2,
+    "track": "A",
+    "time": "09:30-10:30",
+    "type": "session",
+    "description": "How financial institutions are deploying AI agents for trading, risk management, compliance, customer service, and fraud detection.",
+    "longDescription": "Financial services is at the forefront of agentic AI adoption, driven by the need for real-time decision-making, regulatory compliance, and competitive advantage. This session explores use cases across banking, trading, insurance, and fintech.\n\nLearn how AI agents are being deployed for automated trading strategies, real-time risk assessment, regulatory compliance monitoring, personalized financial advice, fraud detection, and customer service. We'll cover both successes and cautionary tales from early adopters in this highly regulated industry.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Financial Services Industry",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand key use cases for agents in financial services",
+      "Learn about regulatory compliance considerations",
+      "Explore real-world deployments and results",
+      "Identify opportunities and challenges in the sector"
+    ],
+    "prerequisites": ["Basic understanding of financial services helpful"],
+    "targetAudience": ["Financial Services Professionals", "Product Managers", "Compliance Officers", "Technology Leaders"],
+    "materials": []
+  },
+  "healthcare-life-sciences": {
+    "id": "healthcare-life-sciences",
+    "title": "Healthcare & Life Sciences Applications",
+    "day": 2,
+    "track": "A",
+    "time": "10:45-11:45",
+    "type": "session",
+    "description": "Exploring how agentic AI is transforming healthcare delivery, drug discovery, clinical trials, and patient care while maintaining safety and privacy.",
+    "longDescription": "Healthcare and life sciences present unique opportunities and challenges for agentic AI. The potential to save lives and improve outcomes is enormous, but so are the stakes when things go wrong.\n\nThis session covers agent applications in clinical decision support, personalized treatment planning, drug discovery acceleration, clinical trial optimization, and patient monitoring. We'll address the critical importance of safety, privacy, regulatory approval, and the human factors that determine whether healthcare AI succeeds or fails.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Healthcare/Life Sciences Industry",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand high-impact healthcare use cases for agents",
+      "Learn about regulatory pathways for healthcare AI",
+      "Explore safety and privacy requirements",
+      "Identify emerging opportunities in the sector"
+    ],
+    "prerequisites": ["Interest in healthcare applications"],
+    "targetAudience": ["Healthcare Professionals", "Life Sciences Leaders", "Product Managers", "Regulatory Affairs"],
+    "materials": []
+  },
+  "manufacturing-supply-chain": {
+    "id": "manufacturing-supply-chain",
+    "title": "Manufacturing & Supply Chain Transformation",
+    "day": 2,
+    "track": "A",
+    "time": "11:45-12:30",
+    "type": "session",
+    "description": "How AI agents are optimizing manufacturing operations, supply chain logistics, inventory management, and predictive maintenance.",
+    "longDescription": "Manufacturing and supply chain operations involve countless decisions made every day - from production scheduling to inventory levels to logistics routing. AI agents are transforming how these decisions are made.\n\nDiscover how leading manufacturers and logistics companies are deploying autonomous agents for production optimization, predictive maintenance, supply chain risk management, quality control, and demand forecasting. Learn about the integration challenges with industrial systems and IoT infrastructure.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Manufacturing/Supply Chain Industry",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand agent applications in manufacturing and logistics",
+      "Learn about IoT and industrial system integration",
+      "Explore ROI models for operational AI",
+      "Identify implementation strategies for industrial settings"
+    ],
+    "prerequisites": ["Basic understanding of manufacturing or supply chain"],
+    "targetAudience": ["Operations Leaders", "Supply Chain Managers", "Manufacturing Executives", "Logistics Professionals"],
+    "materials": []
+  },
+  "fireside-real-teams": {
+    "id": "fireside-real-teams",
+    "title": "Fireside Chat: What Real Teams Learned",
+    "day": 2,
+    "track": "A",
+    "time": "14:00-15:00",
+    "type": "fireside",
+    "description": "Candid conversation with teams who have deployed AI agents in production, sharing honest lessons about what worked, what didn't, and what they'd do differently.",
+    "longDescription": "Theory is useful, but nothing beats learning from those who've been in the trenches. This intimate fireside chat features practitioners who have deployed AI agents in real production environments.\n\nExpect brutal honesty about failures, surprises, unexpected challenges, and hard-won insights. Topics include technical hurdles, organizational resistance, budget overruns, unexpected successes, and the gap between vendor promises and reality. This is the conversation that happens off-stage - now on-stage.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      },
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Learn from real-world deployment experiences",
+      "Understand common failure modes and how to avoid them",
+      "Gain realistic expectations for agent projects",
+      "Identify critical success factors"
+    ],
+    "prerequisites": ["None - suitable for all levels"],
+    "targetAudience": ["All Attendees", "Project Managers", "Technical Leaders", "Business Stakeholders"],
+    "materials": []
+  },
+  "integration-failures": {
+    "id": "integration-failures",
+    "title": "Panel: Integration Failures & How to Avoid Them",
+    "day": 2,
+    "track": "A",
+    "time": "15:15-16:15",
+    "type": "panel",
+    "description": "Expert panel discussing common integration failures when deploying AI agents and practical strategies to prevent them.",
+    "longDescription": "Integration is where many AI agent projects fail. Even when the agent works perfectly in isolation, connecting it to real systems, processes, and organizations proves far more difficult than expected.\n\nThis panel brings together integration specialists, technical architects, and practitioners who have seen and solved integration challenges across industries. Discussion covers API design mistakes, data quality issues, security vulnerabilities, performance bottlenecks, organizational silos, and change management failures.",
+    "speakers": [
+      {
+        "name": "Panelist TBA",
+        "title": "Role to be confirmed",
+        "bio": "Panelist details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      },
+      {
+        "name": "Panelist TBA",
+        "title": "Role to be confirmed",
+        "bio": "Panelist details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Identify common integration failure patterns",
+      "Learn architectural patterns that succeed",
+      "Understand organizational barriers to integration",
+      "Develop integration risk mitigation strategies"
+    ],
+    "prerequisites": ["Some technical background helpful"],
+    "targetAudience": ["Technical Architects", "Integration Specialists", "Project Managers", "IT Directors"],
+    "materials": []
+  },
+  "measuring-roi": {
+    "id": "measuring-roi",
+    "title": "Measuring ROI: Beyond the Hype",
+    "day": 2,
+    "track": "A",
+    "time": "16:30-17:30",
+    "type": "session",
+    "description": "Cut through the marketing hype with rigorous frameworks for measuring the actual return on investment from AI agent deployments.",
+    "longDescription": "AI vendors promise transformative ROI, but measuring the actual return on AI agent investments is challenging. This session provides rigorous, honest frameworks for ROI analysis that go beyond vendor claims.\n\nLearn to account for all costs including integration, maintenance, and organizational change. Understand how to measure benefits including productivity gains, cost savings, quality improvements, and strategic value. We'll cover timeframes for ROI realization and how to set realistic expectations with stakeholders.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Calculate true total cost of ownership for agents",
+      "Measure direct and indirect benefits",
+      "Set realistic ROI expectations and timelines",
+      "Build business cases that withstand scrutiny"
+    ],
+    "prerequisites": ["Basic financial analysis knowledge helpful"],
+    "targetAudience": ["Finance Leaders", "Business Analysts", "Project Managers", "Executive Stakeholders"],
+    "materials": []
+  },
+  "multi-agent-orchestration": {
+    "id": "multi-agent-orchestration",
+    "title": "Multi-Agent Orchestration & Communication",
+    "day": 2,
+    "track": "B",
+    "time": "09:30-10:30",
+    "type": "session",
+    "description": "Technical deep dive into patterns for coordinating multiple AI agents, enabling communication, task delegation, and collaborative problem-solving.",
+    "longDescription": "As agent systems mature, single-agent architectures give way to multi-agent systems where specialized agents work together. This creates new challenges in coordination, communication, and conflict resolution.\n\nThis technical session explores orchestration patterns, inter-agent communication protocols, task delegation strategies, shared memory architectures, and how to prevent agents from working at cross-purposes. Learn when to use centralized orchestration versus distributed coordination.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand multi-agent system architectures",
+      "Design inter-agent communication protocols",
+      "Implement task delegation and coordination",
+      "Prevent and resolve agent conflicts"
+    ],
+    "prerequisites": ["Strong technical background", "Experience building agent systems"],
+    "targetAudience": ["AI Engineers", "System Architects", "Technical Leads", "Research Engineers"],
+    "materials": []
+  },
+  "build-agent-part-2": {
+    "id": "build-agent-part-2",
+    "title": "Hands-On: Build Your First Agent (Part 2)",
+    "day": 2,
+    "track": "B",
+    "time": "10:45-11:45",
+    "type": "workshop",
+    "description": "Continue building your AI agent with advanced capabilities including multi-turn conversations, error handling, and real-world tool integration.",
+    "longDescription": "Part 2 of the hands-on agent building workshop takes your basic agent from Part 1 and adds production-ready capabilities. This session focuses on making your agent robust, reliable, and ready for real use.\n\nAdd sophisticated memory management, implement error handling and recovery, integrate with real-world tools and APIs, build multi-turn conversational capabilities, and add monitoring and observability. By the end, you'll have a production-quality agent you can actually deploy.",
+    "speakers": [
+      {
+        "name": "Instructor TBA",
+        "title": "Role to be confirmed",
+        "bio": "Instructor details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Implement advanced memory and context management",
+      "Build robust error handling and recovery",
+      "Integrate with production APIs and tools",
+      "Add monitoring and observability"
+    ],
+    "prerequisites": ["Completion of Part 1 or equivalent experience", "Programming experience", "Laptop with development environment"],
+    "targetAudience": ["Software Engineers", "ML Engineers", "Technical Product Managers", "Developers"],
+    "materials": []
+  },
+  "performance-optimization": {
+    "id": "performance-optimization",
+    "title": "Performance Optimization at Scale",
+    "day": 2,
+    "track": "B",
+    "time": "11:45-12:30",
+    "type": "session",
+    "description": "Techniques for optimizing AI agent performance, reducing latency, managing costs, and scaling to handle thousands of concurrent operations.",
+    "longDescription": "Agent performance becomes critical at scale. Slow agents frustrate users, high latency limits use cases, and costs can spiral out of control. This session covers practical optimization techniques.\n\nLearn about caching strategies, prompt optimization, model selection trade-offs, batch processing, parallel execution, and cost optimization. We'll cover profiling tools to identify bottlenecks and proven patterns for improving both latency and throughput while controlling costs.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Identify and eliminate performance bottlenecks",
+      "Implement caching and optimization strategies",
+      "Scale agents to handle high concurrency",
+      "Optimize costs without sacrificing performance"
+    ],
+    "prerequisites": ["Technical background", "Experience with agent systems"],
+    "targetAudience": ["AI Engineers", "Platform Engineers", "Technical Architects", "SREs"],
+    "materials": []
+  },
+  "advanced-multi-agent": {
+    "id": "advanced-multi-agent",
+    "title": "Advanced Workshop: Multi-Agent Systems",
+    "day": 2,
+    "track": "B",
+    "time": "14:00-15:30",
+    "type": "workshop",
+    "description": "Advanced hands-on workshop building a multi-agent system with specialized agents collaborating to solve complex problems.",
+    "longDescription": "This advanced workshop guides you through designing and building a real multi-agent system from scratch. Working in teams, you'll create multiple specialized agents that must collaborate to solve a complex challenge.\n\nTopics include agent specialization, communication protocols, task decomposition, shared state management, conflict resolution, and emergent behavior. This is an intensive, code-heavy workshop for experienced developers looking to push their skills to the next level.",
+    "speakers": [
+      {
+        "name": "Instructor TBA",
+        "title": "Role to be confirmed",
+        "bio": "Instructor details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Design complex multi-agent systems",
+      "Implement agent specialization and coordination",
+      "Handle emergent behavior and edge cases",
+      "Build production-ready multi-agent applications"
+    ],
+    "prerequisites": ["Strong programming skills", "Previous agent building experience", "Laptop with development environment"],
+    "targetAudience": ["Senior Engineers", "Technical Architects", "AI Researchers", "Advanced Developers"],
+    "materials": []
+  },
+  "hackathon": {
+    "id": "hackathon",
+    "title": "Hackathon: Speed Building Challenge",
+    "day": 2,
+    "track": "B",
+    "time": "15:45-17:30",
+    "type": "hackathon",
+    "description": "Competitive hackathon where teams race to build innovative AI agent solutions to real-world challenges in under 2 hours.",
+    "longDescription": "Put your skills to the test in this high-energy hackathon. Teams of 2-4 people will receive a real-world problem and must design, build, and demo a working agent solution in under 2 hours.\n\nThis is about speed, creativity, and practical problem-solving. Judges will evaluate solutions on innovation, technical execution, and practical value. Prizes for winning teams, but everyone learns by seeing diverse approaches to the same challenge. Bring your laptop, find a team, and compete!",
+    "speakers": [
+      {
+        "name": "Organizer TBA",
+        "title": "Role to be confirmed",
+        "bio": "Organizer details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Apply agent building skills under time pressure",
+      "Learn from other teams' approaches",
+      "Practice rapid prototyping",
+      "Experience collaborative problem-solving"
+    ],
+    "prerequisites": ["Programming experience", "Agent building knowledge", "Laptop with development environment", "Team of 2-4 (or form one on-site)"],
+    "targetAudience": ["Developers", "Engineers", "Technical Product Managers", "Students"],
+    "materials": []
+  },
+  "innovation-risk": {
+    "id": "innovation-risk",
+    "title": "Balancing Innovation and Risk in Autonomous Systems",
+    "day": 2,
+    "track": "C",
+    "time": "09:30-10:30",
+    "type": "session",
+    "description": "Frameworks for balancing the need to innovate quickly with the imperative to manage risk when deploying autonomous AI systems.",
+    "longDescription": "Organizations face a dilemma: move too slowly with AI agents and get left behind, move too fast and create unacceptable risk. This session provides frameworks for finding the right balance.\n\nLearn risk assessment methodologies specific to autonomous systems, how to stage rollouts to manage risk, building safety nets and circuit breakers, and creating governance structures that enable rapid innovation within acceptable risk boundaries. Real case studies show both successful balancing and cautionary tales.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Assess and quantify AI agent risks",
+      "Design staged rollout strategies",
+      "Implement safety mechanisms and circuit breakers",
+      "Build governance that enables innovation"
+    ],
+    "prerequisites": ["Basic risk management knowledge helpful"],
+    "targetAudience": ["Risk Managers", "Compliance Officers", "Business Leaders", "Product Managers"],
+    "materials": []
+  },
+  "human-in-loop": {
+    "id": "human-in-loop",
+    "title": "Human-in-the-Loop Design Patterns",
+    "day": 2,
+    "track": "C",
+    "time": "10:45-11:45",
+    "type": "session",
+    "description": "Design patterns for integrating human judgment and oversight into autonomous agent systems, balancing automation with control.",
+    "longDescription": "Purely autonomous agents aren't always the answer. Many use cases benefit from human-in-the-loop designs where humans and agents collaborate. This session explores proven design patterns.\n\nCover when to use human-in-the-loop versus full automation, UI patterns for human-agent collaboration, how to design effective approval workflows, and techniques for learning from human feedback to improve agent performance over time. See examples across industries.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Identify when human-in-the-loop is appropriate",
+      "Design effective human-agent collaboration patterns",
+      "Build approval and oversight workflows",
+      "Learn from human feedback to improve agents"
+    ],
+    "prerequisites": ["Basic understanding of UX design helpful"],
+    "targetAudience": ["UX Designers", "Product Managers", "AI Engineers", "Business Analysts"],
+    "materials": []
+  },
+  "audit-compliance": {
+    "id": "audit-compliance",
+    "title": "Audit & Compliance Frameworks",
+    "day": 2,
+    "track": "C",
+    "time": "11:45-12:30",
+    "type": "session",
+    "description": "Building audit trails and compliance frameworks for AI agent systems to meet regulatory requirements and internal governance standards.",
+    "longDescription": "As AI agents make consequential decisions, organizations need robust audit and compliance frameworks. This session covers what's required and how to implement it.\n\nLearn to build comprehensive audit trails that capture agent decisions and reasoning, create compliance monitoring systems, implement required controls, and prepare for regulatory audits. We'll cover industry-specific requirements and general best practices that work across contexts.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Design comprehensive audit trail systems",
+      "Implement compliance monitoring for agents",
+      "Meet regulatory requirements for AI systems",
+      "Prepare for audits and regulatory review"
+    ],
+    "prerequisites": ["Basic understanding of compliance helpful"],
+    "targetAudience": ["Compliance Officers", "Auditors", "Legal Counsel", "Risk Managers"],
+    "materials": []
+  },
+  "organizational-readiness": {
+    "id": "organizational-readiness",
+    "title": "Organizational Readiness Assessment",
+    "day": 2,
+    "track": "C",
+    "time": "14:00-15:00",
+    "type": "session",
+    "description": "Framework for assessing whether your organization is ready for AI agents across dimensions of technology, culture, processes, and governance.",
+    "longDescription": "Not every organization is ready for agentic AI. Deploying agents in an unprepared organization leads to failure. This session provides a comprehensive readiness assessment framework.\n\nEvaluate your organization across key dimensions: technical infrastructure, data readiness, talent and skills, cultural attitudes, process maturity, and governance structures. Learn to identify gaps, prioritize improvements, and build a roadmap to readiness before making major AI investments.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Assess organizational readiness across key dimensions",
+      "Identify gaps and prioritize improvements",
+      "Build roadmaps to AI readiness",
+      "Avoid premature AI investments"
+    ],
+    "prerequisites": ["Organizational leadership experience helpful"],
+    "targetAudience": ["Business Leaders", "Change Management", "Strategy Teams", "Innovation Officers"],
+    "materials": []
+  },
+  "workforce-transformation": {
+    "id": "workforce-transformation",
+    "title": "Skills & Workforce Transformation",
+    "day": 2,
+    "track": "C",
+    "time": "15:15-16:15",
+    "type": "session",
+    "description": "How AI agents are transforming workforce needs, what skills will matter most, and strategies for reskilling and upskilling your teams.",
+    "longDescription": "AI agents will fundamentally change the nature of work and the skills organizations need. This session helps you prepare your workforce for the transformation.\n\nExplore which jobs will change most, what new roles will emerge, and what skills will become critical. Learn strategies for reskilling existing employees, attracting new talent, and building learning cultures. We'll address the anxiety around AI and jobs with practical, human-centered approaches.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand how AI agents change workforce needs",
+      "Identify critical future skills for your organization",
+      "Design reskilling and upskilling programs",
+      "Address workforce anxiety about AI"
+    ],
+    "prerequisites": ["HR or workforce planning experience helpful"],
+    "targetAudience": ["HR Leaders", "Learning & Development", "Business Leaders", "Talent Acquisition"],
+    "materials": []
+  },
+  "agent-strategy": {
+    "id": "agent-strategy",
+    "title": "Interactive: Design Your Agent Strategy",
+    "day": 2,
+    "track": "C",
+    "time": "16:30-17:30",
+    "type": "workshop",
+    "description": "Interactive workshop where you'll develop a customized AI agent strategy for your organization using proven frameworks and templates.",
+    "longDescription": "Take everything you've learned and create a concrete strategy for your organization. In this hands-on workshop, you'll work through frameworks and templates to design your AI agent roadmap.\n\nWorking individually or in small teams, you'll define use cases, prioritize opportunities, assess readiness, identify risks, plan pilots, and create implementation timelines. Leave with a draft strategy document you can take back to your organization and refine.",
+    "speakers": [
+      {
+        "name": "Facilitator TBA",
+        "title": "Role to be confirmed",
+        "bio": "Facilitator details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Apply strategy frameworks to your context",
+      "Identify and prioritize use cases",
+      "Create implementation roadmaps",
+      "Develop concrete action plans"
+    ],
+    "prerequisites": ["Decision-making authority helpful but not required"],
+    "targetAudience": ["Business Leaders", "Strategy Teams", "Product Managers", "Innovation Leaders"],
+    "materials": []
+  },
+  "ceo-roundtable": {
+    "id": "ceo-roundtable",
+    "title": "CEO Roundtable: Strategic Imperatives",
+    "day": 3,
+    "track": "A",
+    "time": "09:30-10:30",
+    "type": "roundtable",
+    "description": "Exclusive roundtable for CEOs and senior executives to discuss strategic imperatives for AI agents and share insights peer-to-peer.",
+    "longDescription": "An intimate, Chatham House Rules roundtable exclusively for CEOs and C-suite executives to discuss the strategic challenges and opportunities of agentic AI.\n\nThis is a peer-to-peer conversation, not a lecture. Topics are driven by participants but typically include: competitive dynamics, when to build versus buy, board education and governance, talent wars, partnership strategies, and how to separate signal from noise in a hyped market.",
+    "speakers": [
+      {
+        "name": "Facilitator TBA",
+        "title": "Executive Facilitator",
+        "bio": "Facilitator details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Exchange strategic insights with peers",
+      "Understand competitive dynamics",
+      "Discuss build vs buy trade-offs",
+      "Learn from others' experiences"
+    ],
+    "prerequisites": ["CEO or C-suite role"],
+    "targetAudience": ["CEOs", "Presidents", "Managing Directors", "C-Suite Executives"],
+    "materials": []
+  },
+  "ai-native-organization": {
+    "id": "ai-native-organization",
+    "title": "Building the AI-Native Organization",
+    "day": 3,
+    "track": "A",
+    "time": "10:45-12:00",
+    "type": "session",
+    "description": "What does it mean to be an AI-native organization? How to fundamentally reimagine structure, processes, and culture around AI agents.",
+    "longDescription": "Most organizations are retrofitting AI onto existing structures. AI-native organizations are different - they're built from the ground up with AI agents as first-class members of the team.\n\nThis session explores what changes when you truly commit to being AI-native: organizational structures, decision-making processes, KPIs and metrics, talent models, and culture. See examples from companies that have made the transformation and are reaping the competitive advantages.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand characteristics of AI-native organizations",
+      "Learn how to transform structure and processes",
+      "Build AI-ready culture and talent models",
+      "Identify your transformation roadmap"
+    ],
+    "prerequisites": ["Senior leadership experience helpful"],
+    "targetAudience": ["C-Suite Executives", "Business Leaders", "Transformation Officers", "Strategy Teams"],
+    "materials": []
+  },
+  "testing-qa": {
+    "id": "testing-qa",
+    "title": "Testing & Quality Assurance for Agents",
+    "day": 3,
+    "track": "B",
+    "time": "09:30-10:30",
+    "type": "session",
+    "description": "How to test AI agents effectively, ensure quality, catch bugs before production, and maintain reliability as agents evolve.",
+    "longDescription": "Testing AI agents is fundamentally different from testing traditional software. Agents are non-deterministic, make complex decisions, and can fail in subtle ways that are hard to catch.\n\nThis session covers testing strategies specific to agents: scenario-based testing, adversarial testing, monitoring in production, testing for hallucinations and reasoning errors, regression testing as agents evolve, and building comprehensive test suites. Learn from both successes and spectacular testing failures.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Design comprehensive test strategies for agents",
+      "Implement scenario and adversarial testing",
+      "Catch non-obvious failure modes",
+      "Build regression testing frameworks"
+    ],
+    "prerequisites": ["QA or testing experience helpful"],
+    "targetAudience": ["QA Engineers", "Test Automation Engineers", "AI Engineers", "DevOps"],
+    "materials": []
+  },
+  "open-source-showcase": {
+    "id": "open-source-showcase",
+    "title": "Open Source Tools & Frameworks Showcase",
+    "day": 3,
+    "track": "B",
+    "time": "10:45-12:00",
+    "type": "demo",
+    "description": "Demonstration of leading open-source tools and frameworks for building AI agents, with hands-on examples and community insights.",
+    "longDescription": "The open-source AI agent ecosystem is exploding with innovative tools and frameworks. This showcase demonstrates the best of what's available and helps you choose the right tools for your needs.\n\nSee demos of leading agent frameworks, orchestration tools, memory systems, evaluation suites, and deployment platforms. Meet maintainers, learn about roadmaps, understand trade-offs between options, and discover hidden gems from the community.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Open Source Maintainer",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Discover leading open-source agent tools",
+      "Understand trade-offs between frameworks",
+      "Learn from tool creators and maintainers",
+      "Choose the right tools for your use case"
+    ],
+    "prerequisites": ["Programming experience helpful"],
+    "targetAudience": ["Developers", "Technical Architects", "Open Source Enthusiasts", "Tool Builders"],
+    "materials": []
+  },
+  "fair-unbiased": {
+    "id": "fair-unbiased",
+    "title": "Ensuring Fair & Unbiased Agent Decisions",
+    "day": 3,
+    "track": "C",
+    "time": "09:30-10:30",
+    "type": "session",
+    "description": "Techniques for detecting and mitigating bias in AI agent decisions, ensuring fairness across demographic groups and contexts.",
+    "longDescription": "AI agents can perpetuate or amplify biases from training data and design choices, with serious consequences for fairness and compliance. This session covers how to ensure your agents make fair decisions.\n\nLearn to detect different types of bias, measure fairness across multiple dimensions, implement bias mitigation techniques, test for discriminatory outcomes, and build fairness into the agent development lifecycle. Includes case studies of both failures and successes.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Identify and measure different types of bias",
+      "Implement bias detection and mitigation techniques",
+      "Test for discriminatory outcomes",
+      "Build fairness into development processes"
+    ],
+    "prerequisites": ["Basic understanding of AI fairness concepts helpful"],
+    "targetAudience": ["AI Engineers", "Ethics Officers", "Compliance Teams", "Product Managers"],
+    "materials": []
+  },
+  "public-trust": {
+    "id": "public-trust",
+    "title": "Public Trust & Transparency Requirements",
+    "day": 3,
+    "track": "C",
+    "time": "10:45-12:00",
+    "type": "session",
+    "description": "Building public trust in AI agent systems through transparency, explainability, and clear communication about capabilities and limitations.",
+    "longDescription": "Public trust is essential for AI agents to achieve widespread adoption, especially in consumer-facing and public sector applications. Low trust creates adoption barriers and invites regulation.\n\nThis session explores how to build and maintain public trust through transparency about AI use, clear explanation of agent capabilities and limitations, user control and consent, incident response and accountability, and proactive communication. Learn from organizations that have built trust and those that have lost it.",
+    "speakers": [
+      {
+        "name": "Speaker TBA",
+        "title": "Role to be confirmed",
+        "bio": "Speaker details will be announced closer to the conference date.",
+        "image": "/speakers/placeholder.jpg"
+      }
+    ],
+    "learningObjectives": [
+      "Understand what drives public trust in AI",
+      "Design transparent agent systems",
+      "Communicate effectively about AI capabilities",
+      "Build accountability and incident response"
+    ],
+    "prerequisites": ["None - suitable for all levels"],
+    "targetAudience": ["Communications Leaders", "Product Managers", "Public Affairs", "Customer Experience"],
+    "materials": []
+  }
+}
