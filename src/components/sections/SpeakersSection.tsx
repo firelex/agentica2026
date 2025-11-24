@@ -40,14 +40,14 @@ const speakers: Speaker[] = [
     bio: "Serial entrepreneur and technologist with a track record of building category-defining enterprise software companies.",
     image: "/speakers/christian-nentwich.jpg"
   },
-  {
-    id: "jay-phipps",
-    name: "Jay Phipps",
-    title: "Senior Director Analyst, National Defense and Security",
-    company: "Gartner",
-    bio: "Technology and defense expert bridging federal service and strategic advisory with deep experience in defense intelligence systems.",
-    image: "/speakers/jay-phipps.jpg"
-  },
+  // {
+  //   id: "jay-phipps",
+  //   name: "Jay Phipps",
+  //   title: "Senior Director Analyst, National Defense and Security",
+  //   company: "Gartner",
+  //   bio: "Technology and defense expert bridging federal service and strategic advisory with deep experience in defense intelligence systems.",
+  //   image: "/speakers/jay-phipps.jpg"
+  // },
   {
     id: "ben-hollowood",
     name: "Ben Hollowood",
@@ -55,6 +55,14 @@ const speakers: Speaker[] = [
     company: "Bowmark Capital",
     bio: "Private equity leader driving portfolio management and value creation through strategic growth and digital transformation.",
     image: "/speakers/ben-hollowood.jpg"
+  },
+  {
+    id: "frances-weston",
+    name: "Frances Weston",
+    title: "Managing Director",
+    company: "WSD",
+    bio: "Financial services and technology executive spearheading agentic AI deployment in banking and asset management.",
+    image: "/speakers/frances-weston.jpg"
   }
 ];
 

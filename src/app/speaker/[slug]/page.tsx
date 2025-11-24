@@ -171,6 +171,36 @@ Ben holds an MA in Neuroscience from the University of Cambridge and is a CFA ch
     social: {
       linkedin: 'https://www.linkedin.com/in/ben-hollowood/'
     }
+  },
+  'frances-weston': {
+    id: 'frances-weston',
+    name: 'Frances Weston',
+    title: 'Managing Director',
+    company: 'WSD',
+    bio: 'Financial services and technology executive spearheading agentic AI deployment in banking and asset management.',
+    longBio: `Frances Weston (Kinloch) CAIA is a seasoned financial-services and technology executive whose career spans senior roles in banking, asset management and digital transformation across the UK and Europe. In her current role as Managing Director at WSD (formerly WallStreetDocs), she drives the firm's commercial strategy and operational execution while spearheading the rollout of agentic AI—both to streamline internal workflows and as a next-generation product offering for clients.
+
+Before joining WSD, Weston served as Managing Director at Econocom UK, where she advanced the firm's growth in the digital-as-a-service market, building on more than 15 years of experience in banking and corporate investments. Her earlier career includes senior roles at Barclays as Director and Head of UK & Offshore Corporate Investments, as well as positions at Scotia Capital and Bloomberg Tradebook.
+
+Weston holds a degree from the University of Bristol and is a Chartered Alternative Investment Analyst (CAIA), underscoring her depth of expertise in alternative investments.
+
+In her leadership role at WSD, she combines her background in banking, technology and service innovation to help shape the firm's evolution—bridging sophisticated financial clients with cutting-edge automation and agentic intelligence.`,
+    image: '/speakers/frances-weston.jpg',
+    expertise: [
+      'Financial Services',
+      'Banking Technology',
+      'Digital Transformation',
+      'Agentic AI Deployment',
+      'Asset Management',
+      'Alternative Investments',
+      'Commercial Strategy',
+      'Product Innovation'
+    ],
+    sessionTitle: 'Deploying Agentic AI in Financial Services',
+    sessionDescription: 'Frances shares her experience leading the deployment of agentic AI at WSD, both internally and as a product offering for financial services clients. Learn about the unique challenges of bringing AI agents to regulated financial environments, the opportunities for automation in banking and asset management, and practical strategies for successful implementation.',
+    social: {
+      linkedin: 'https://www.linkedin.com/in/frances-weston-kinloch-caia-9a39854/'
+    }
   }
 };
 
