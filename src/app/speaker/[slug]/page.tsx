@@ -201,6 +201,35 @@ In her leadership role at WSD, she combines her background in banking, technolog
     social: {
       linkedin: 'https://www.linkedin.com/in/frances-weston-kinloch-caia-9a39854/'
     }
+  },
+  'alistair-taylor': {
+    id: 'alistair-taylor',
+    name: 'Alistair Taylor',
+    title: 'Director of Innovation & AI',
+    company: 'White & Case',
+    bio: 'Legal innovation leader and former leveraged finance lawyer driving AI integration and digital transformation in global law firms.',
+    longBio: `Alistair Taylor is the Director of Innovation & AI at White & Case, leading the firm's global strategy for next-generation legal services and technology adoption. With 14+ years of experience spanning law, legaltech, innovation, and AI, he works closely with the CINO, C-suite, Executive Committee, IT, and compliance to accelerate AI integration, modernise legal workflows, and deliver measurable client impact.
+
+A former leveraged finance lawyer, Alistair holds an Executive MBA from the University of Cambridge, where he graduated top of his class and was named a global "Best & Brightest" EMBA 2024 by Poets & Quants.
+
+Before joining White & Case, he built and led the global innovation function at Latham & Watkins, evaluating hundreds of AI and legaltech platforms, launching firmwide AI education, and shaping the firm's early AI benchmarking programs. He previously served as Global Head of Presales at RAVN, helping scale its AI-assisted due diligence platform through acquisition by iManage.
+
+A recognised thought leader, he advises VC and PE investors, mentors legaltech start-ups, contributes to academic research, and speaks regularly at industry conferences including LMA, ISDA, Legal Geek, Legal Innovators, and ILTA.`,
+    image: '/speakers/alistair-taylor.jpg',
+    expertise: [
+      'Legal Innovation',
+      'AI Strategy',
+      'Legal Technology',
+      'Digital Transformation',
+      'Due Diligence Automation',
+      'Legal Workflow Optimization',
+      'Enterprise AI Deployment'
+    ],
+    sessionTitle: 'AI Integration in Global Law Firms: Strategy to Execution',
+    sessionDescription: 'Alistair shares insights from leading AI innovation at two of the world\'s largest law firms. Learn how to navigate the complexities of enterprise AI adoption in legal environments, from evaluating platforms and building stakeholder buy-in to launching firmwide education programs and measuring client impact.',
+    social: {
+      linkedin: 'https://www.linkedin.com/in/alistairwye/'
+    }
   }
 };
 

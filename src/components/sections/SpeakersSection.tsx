@@ -63,6 +63,14 @@ const speakers: Speaker[] = [
     company: "WSD",
     bio: "Financial services and technology executive spearheading agentic AI deployment in banking and asset management.",
     image: "/speakers/frances-weston.jpg"
+  },
+  {
+    id: "alistair-taylor",
+    name: "Alistair Taylor",
+    title: "Director of Innovation & AI",
+    company: "White & Case",
+    bio: "Legal innovation leader and former leveraged finance lawyer driving AI integration and digital transformation in global law firms.",
+    image: "/speakers/alistair-taylor.jpg"
   }
 ];
 
